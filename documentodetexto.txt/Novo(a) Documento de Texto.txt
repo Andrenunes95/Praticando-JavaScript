@@ -1,1 +1,3 @@
-Praticando GitHub na aula 03 do dia 17/03/26
+Praticando Git e GitHub na aula 03 do dia 17/03/26
+
+Criando repositórios 
