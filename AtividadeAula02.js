@@ -58,7 +58,19 @@ console.log(typeof linhas);
 
 // DESAFIO FINAL
 
+let Cabeçalho = "Cadastro do Usuário:"
 
+let Nome = "Lucas";
+
+const Idade = 31;
+
+let Altura = 1.75;
+
+let Peso = 75;
+
+let Localidade = "São Paulo"
+
+let Ocupação = "Programador"
 
 console.log(Cabeçalho);
 nome = "Cadastro do Usuário";
